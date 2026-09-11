@@ -1,7 +1,7 @@
 # Definición de variables iniciales
 v_in = 5.0
 I = 0.0001
-
+#prueba
 # Se crean dos arreglos (listas) para almacenar los resultados por separado
 lista_r1 = []
 lista_r2 = []
